@@ -1,0 +1,17 @@
+C:\Users\Lenovo\source\repos\elifodev\bankapplicationc#\bankapplicationc#\bin\Debug\net7.0-windows\bankapplicationc#.exe
+C:\Users\Lenovo\source\repos\elifodev\bankapplicationc#\bankapplicationc#\bin\Debug\net7.0-windows\bankapplicationc#.deps.json
+C:\Users\Lenovo\source\repos\elifodev\bankapplicationc#\bankapplicationc#\bin\Debug\net7.0-windows\bankapplicationc#.runtimeconfig.json
+C:\Users\Lenovo\source\repos\elifodev\bankapplicationc#\bankapplicationc#\bin\Debug\net7.0-windows\bankapplicationc#.dll
+C:\Users\Lenovo\source\repos\elifodev\bankapplicationc#\bankapplicationc#\bin\Debug\net7.0-windows\bankapplicationc#.pdb
+C:\Users\Lenovo\source\repos\elifodev\bankapplicationc#\bankapplicationc#\obj\Debug\net7.0-windows\bankapplicationc_.Form1.resources
+C:\Users\Lenovo\source\repos\elifodev\bankapplicationc#\bankapplicationc#\obj\Debug\net7.0-windows\bankapplicationc_.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\elifodev\bankapplicationc#\bankapplicationc#\obj\Debug\net7.0-windows\bankapplicationc#.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\elifodev\bankapplicationc#\bankapplicationc#\obj\Debug\net7.0-windows\bankapplicationc#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\elifodev\bankapplicationc#\bankapplicationc#\obj\Debug\net7.0-windows\bankapplicationc#.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\elifodev\bankapplicationc#\bankapplicationc#\obj\Debug\net7.0-windows\bankapplicationc#.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\elifodev\bankapplicationc#\bankapplicationc#\obj\Debug\net7.0-windows\bankapplicationc#.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\elifodev\bankapplicationc#\bankapplicationc#\obj\Debug\net7.0-windows\bankapplicationc#.dll
+C:\Users\Lenovo\source\repos\elifodev\bankapplicationc#\bankapplicationc#\obj\Debug\net7.0-windows\refint\bankapplicationc#.dll
+C:\Users\Lenovo\source\repos\elifodev\bankapplicationc#\bankapplicationc#\obj\Debug\net7.0-windows\bankapplicationc#.pdb
+C:\Users\Lenovo\source\repos\elifodev\bankapplicationc#\bankapplicationc#\obj\Debug\net7.0-windows\bankapplicationc#.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\elifodev\bankapplicationc#\bankapplicationc#\obj\Debug\net7.0-windows\ref\bankapplicationc#.dll
